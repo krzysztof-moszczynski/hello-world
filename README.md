@@ -1,2 +1,3 @@
 # hello-world
-my fird repository
+my first repository
+Here I should put smth but thats only exemplary file.
